@@ -30,5 +30,5 @@ public class Main {
         System.out.println(orange2.getWeight());
         System.out.println(apple2.getWeight());
     }
-//not bad
+//not 
 }
